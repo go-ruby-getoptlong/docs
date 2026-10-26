@@ -4,3 +4,5 @@ github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f h1:8
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260717065132-86577a8b648f/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260916093430-ea78ae8c529b h1:P/UqpWSFofDBNygifbL2jHtJKR58U7LncVxwVpeKmMU=
 github.com/go-ruby-getoptlong/getoptlong v0.0.0-20260916093430-ea78ae8c529b/go.mod h1:nGvVSBSIsYrhM2qs4yQ2k8uDbXCFPWQXXqkowleHMDs=
+github.com/go-ruby-getoptlong/getoptlong v0.0.0-20261025191219-c94fdd74d15e h1:H703FVtnISEJRGzR4XKlF4S7StGAbRNaaYuDNIrh6Ag=
+github.com/go-ruby-getoptlong/getoptlong v0.0.0-20261025191219-c94fdd74d15e/go.mod h1:mzuwRGO05i7jyFMtN9OaNyiGW/ZUMeExQl5w+4s2HVg=
